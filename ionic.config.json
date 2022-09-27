@@ -1,0 +1,7 @@
+{
+  "name": "tarea tareita ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
